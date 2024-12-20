@@ -19,8 +19,8 @@ This project implements a user authentication system using Streamlit and SQLite.
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/login-system.git
-    cd login-system
+    git clone https://github.com/ErfanNahidi/streamlit_login_page
+    cd streamlit_login_page
     ```
 
 2. Install the required dependencies:
